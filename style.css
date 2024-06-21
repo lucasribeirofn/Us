@@ -210,7 +210,7 @@ margin: 0 5px;
     }
     }
 
-@media (max-width: 380px) {
+@media (max-width: 396px) {
     .grid2 {
     grid-template-columns: 1fr;
     margin-top: 28%;
